@@ -1,0 +1,23 @@
+.mainHeading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.check-icon{
+    width: 16px;
+    height: 16px;
+    margin-left: 16px;
+}
+
+#users{
+    margin: 30px;
+}
+
+.user{
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
